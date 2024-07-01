@@ -3,6 +3,6 @@
 Officical PyTorch implementation of Informer 
 
 **Jun-Hyuk Kim**<sup>1</sup>  **Byeongho Heo**<sup>2</sup>  **Jong-Seok Lee**<sup>1</sup><br>
-<sup>1</sup>School of Integrated Technology, Yonsei University  <sup>2</sup> NAVER AI Lab<br> 
+<sup>1</sup>School of Integrated Technology, Yonsei University  <sup>2</sup> NAVER AI Lab<be> 
 
-## Code will be available soon :)
+The code is available on the first author's repo [here](https://github.com/junhyukk/informer)
